@@ -1,0 +1,3 @@
+[submodule "eventstream_benchmark"]
+	path = eventstream_benchmark
+	url = git@github.com:bowen-xu/eventstream_benchmark.git
